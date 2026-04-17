@@ -1,34 +1,13 @@
 # tomixrm Theme
 
-A dark color theme for Visual Studio Code. Features a warm dark UI with carefully tuned syntax colors for comfortable long coding sessions.
+Code is dark. Workspace is light. Separate thinking from operating.
 
 ## Features
 
-- Warm dark background (`#2d2a2e`) easy on the eyes
-- Monokai syntax palette with balanced contrast
-- Semantic highlighting support
-- Consistent colors across editor, terminal, sidebar, and panels
-- Bracket pair colorization with 6 distinct colors
-
-## Color Palette
-
-| Role | Color |
-|------|-------|
-| Keywords / Tags | `#ff6188` Pink |
-| Strings / Headings | `#ffd866` Yellow |
-| Functions | `#a9dc76` Green |
-| Types / Classes | `#78dce8` Cyan |
-| Constants / Numbers | `#ab9df2` Purple |
-| Parameters | `#fc9867` Orange |
-| Default Text | `#fcfcfa` White |
-| Comments | `#727072` Gray |
-
-## Installation
-
-1. Open **Extensions** in VS Code (`Ctrl+Shift+X`)
-2. Search for `tomixrm Theme`
-3. Click **Install**
-4. Open the Command Palette (`Ctrl+Shift+P`) → **Preferences: Color Theme** → select **tomixrm**
+コードを書く領域と、ファイル操作・UIの領域を明確に分離したテーマ。
+コードエリアはダークテーマで集中しやすく、作業エリアはライトテーマで視認性と操作性を優先しています。
+「考える場所」と「操作する場所」を色で切り分けることで、認知負荷を下げ、作業の切り替えをスムーズにします。
+Monokaiベースの安定したシンタックスカラーを採用しています。
 
 ## License
 

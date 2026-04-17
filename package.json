@@ -10,12 +10,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tomixrm/tomixrm-theme"
+    "url": "https://github.com/TomiXRM/tomixrm-theme"
   },
   "bugs": {
-    "url": "https://github.com/tomixrm/tomixrm-theme/issues"
+    "url": "https://github.com/TomiXRM/tomixrm-theme/issues"
   },
-  "homepage": "https://github.com/tomixrm/tomixrm-theme#readme",
+  "homepage": "https://github.com/TomiXRM/tomixrm-theme#readme",
   "icon": "icon.png",
   "galleryBanner": {
     "color": "#2d2a2e",
