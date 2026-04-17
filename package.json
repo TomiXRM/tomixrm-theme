@@ -1,0 +1,25 @@
+{
+  "name": "tomixrm-theme",
+  "displayName": "tomixrm Theme",
+  "description": "Warm hybrid VS Code theme with a light UI and dark editor derived from tomixrm's settings.json",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.116.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "tomixrm Warm Hybrid",
+        "uiTheme": "vs",
+        "path": "./themes/tomixrm-theme-color-theme.json"
+      }
+    ],
+    "configurationDefaults": {
+      "editor.fontWeight": "1000",
+      "editor.fontFamily": "Menlo, Consolas, DejaVu Sans Mono, monospace"
+    }
+  }
+}
