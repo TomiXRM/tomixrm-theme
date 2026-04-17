@@ -1,25 +1,46 @@
 {
   "name": "tomixrm-theme",
   "displayName": "tomixrm Theme",
-  "description": "Warm hybrid VS Code theme with a light UI and dark editor derived from tomixrm's settings.json",
-  "version": "0.0.1",
+  "description": "A dark color theme inspired by Monokai Pro, featuring a warm dark UI with carefully balanced syntax colors.",
+  "version": "0.1.0",
+  "publisher": "tomixrm",
+  "author": {
+    "name": "tomixrm"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomixrm/tomixrm-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/tomixrm/tomixrm-theme/issues"
+  },
+  "homepage": "https://github.com/tomixrm/tomixrm-theme#readme",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#2d2a2e",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.116.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "monokai",
+    "color theme",
+    "syntax highlighting"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "tomixrm Warm Hybrid",
-        "uiTheme": "vs",
+        "label": "tomixrm",
+        "uiTheme": "vs-dark",
         "path": "./themes/tomixrm-theme-color-theme.json"
       }
-    ],
-    "configurationDefaults": {
-      "editor.fontWeight": "1000",
-      "editor.fontFamily": "Menlo, Consolas, DejaVu Sans Mono, monospace"
-    }
+    ]
   }
 }

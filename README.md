@@ -1,25 +1,35 @@
 # tomixrm Theme
 
-`tomixrm Warm Hybrid` is a VS Code color theme built from the palette in your personal `settings.json`.
+A dark color theme for Visual Studio Code. Features a warm dark UI with carefully tuned syntax colors for comfortable long coding sessions.
 
-## What is included
+## Features
 
-- Light workbench UI derived from `workbench.colorCustomizations`
-- Dark editor, terminal, and lower panel areas with Monokai Pro-like syntax role balance
-- A few small normalizations for contrast and theme-key compatibility
+- Warm dark background (`#2d2a2e`) easy on the eyes
+- Monokai syntax palette with balanced contrast
+- Semantic highlighting support
+- Consistent colors across editor, terminal, sidebar, and panels
+- Bracket pair colorization with 6 distinct colors
 
-## What is not included
+## Color Palette
 
-This extension only packages theme colors. Editor behavior, font, formatter, Git, terminal, and extension-specific settings should stay in your personal `settings.json`.
+| Role | Color |
+|------|-------|
+| Keywords / Tags | `#ff6188` Pink |
+| Strings / Headings | `#ffd866` Yellow |
+| Functions | `#a9dc76` Green |
+| Types / Classes | `#78dce8` Cyan |
+| Constants / Numbers | `#ab9df2` Purple |
+| Parameters | `#fc9867` Orange |
+| Default Text | `#fcfcfa` White |
+| Comments | `#727072` Gray |
 
-## Preview the theme
+## Installation
 
-1. Open this folder in VS Code
-2. Press `F5`
-3. In the Extension Development Host, select `tomixrm Warm Hybrid`
+1. Open **Extensions** in VS Code (`Ctrl+Shift+X`)
+2. Search for `tomixrm Theme`
+3. Click **Install**
+4. Open the Command Palette (`Ctrl+Shift+P`) → **Preferences: Color Theme** → select **tomixrm**
 
-## Notes
+## License
 
-- The typo `inputValidation.errorForeground:` from the source settings was corrected to `inputValidation.errorForeground`
-- `sideBarTitle.background` is not a standard theme color key, so it was not carried over directly
-- Monokai Pro itself is not vendored or forked here; the syntax highlighting is an original implementation inspired by that category balance
+MIT

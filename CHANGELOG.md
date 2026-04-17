@@ -1,9 +1,13 @@
-# Change Log
+# Changelog
 
-All notable changes to the "tomixrm-theme" extension will be documented in this file.
+All notable changes to the tomixrm Theme extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.1.0] - 2026-04-18
 
-## [Unreleased]
-
+### Added
 - Initial release
+- Dark UI: sidebar, activity bar, title bar, tabs, panels
+- Monokai syntax palette
+- Semantic highlighting support
+- Bracket pair colorization (6 colors)
+- Terminal ANSI colors aligned with theme palette
