@@ -1,8 +1,8 @@
 {
   "name": "tomixrm-color-theme",
   "displayName": "tomixrm Color Theme",
-  "description": "A dark color theme inspired by Monokai Pro, featuring a warm dark UI with carefully balanced syntax colors.",
-  "version": "0.1.1",
+  "description": "A dark color theme inspired by Monokai, featuring a warm dark UI with carefully balanced syntax colors.",
+  "version": "0.1.2",
   "publisher": "tomixrm",
   "author": {
     "name": "tomixrm"
@@ -38,7 +38,7 @@
     "themes": [
       {
         "label": "tomixrm",
-        "uiTheme": "vs-dark",
+        "uiTheme": "vs",
         "path": "./themes/tomixrm-theme-color-theme.json"
       }
     ]
