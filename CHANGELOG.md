@@ -7,6 +7,10 @@ All notable changes to the tomixrm Theme extension will be documented in this fi
 ### Fixed
 - Sticky scroll hover background now matches dark editor theme
 - Set editor.foreground to #707070 for readability in both dark editor and light sidebar chat panels
+- Change error color from #b60747 to #ed4a86 for better contrast against background
+
+### Changed
+- Improve README with centered layout, badges, sample screenshot, and Click to Install button
 
 ## [0.1.2] - 2026-04-18
 
