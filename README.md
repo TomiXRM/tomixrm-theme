@@ -15,15 +15,12 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=tomixrm.tomixrm-color-theme">
     <img src="https://vsmarketplacebadges.dev/installs-short/tomixrm.tomixrm-color-theme.svg" alt="Installs">
   </a>
-</p>
-
-<br />
-
-<p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=tomixrm.tomixrm-color-theme">
     <img src="https://img.shields.io/badge/Install%20in%20VS%20Code-Click%20to%20Install-blue?logo=visualstudiocode" alt="Install in VS Code">
   </a>
 </p>
+
+<br />
 
 <br />
 
