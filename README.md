@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=tomixrm.tomixrm-color-theme">
-    <img src="https://img.shields.io/visual-studio-marketplace/v/tomixrm.tomixrm-color-theme?style=for-the-badge&colorA=2d2a2e&colorB=fc9867&label=VERSION" alt="Version">
+    <img src="https://vsmarketplacebadges.dev/version-short/tomixrm.tomixrm-color-theme.svg" alt="Version">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=tomixrm.tomixrm-color-theme">
-    <img src="https://img.shields.io/visual-studio-marketplace/i/tomixrm.tomixrm-color-theme?style=for-the-badge&colorA=2d2a2e&colorB=a9dc76&label=INSTALLS" alt="Installs">
+    <img src="https://vsmarketplacebadges.dev/installs-short/tomixrm.tomixrm-color-theme.svg" alt="Installs">
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=tomixrm.tomixrm-color-theme">
-    <img src="https://img.shields.io/badge/Install%20in%20VS%20Code-Click%20to%20Install-fc9867?style=for-the-badge&logo=visualstudiocode&logoColor=white&colorA=2d2a2e&colorB=fc9867" alt="Install in VS Code">
+    <img src="https://img.shields.io/badge/Install%20in%20VS%20Code-Click%20to%20Install-fc9867?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=2d2a2e&color=fc9867" alt="Install in VS Code">
   </a>
 </p>
 
