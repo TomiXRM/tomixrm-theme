@@ -27,7 +27,7 @@
 
 <br />
 
-![Sample](sample.png)
+![Sample](sample.jpg)
 
 ## Concept
 
