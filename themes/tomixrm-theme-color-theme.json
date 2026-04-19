@@ -107,7 +107,7 @@
     "panelTitleBadge.background": "#ff9940",
     "panelTitleBadge.foreground": "#fffaf2",
     "editor.background": "#2f2b31",
-    "editor.foreground": "#f7f4ef",
+    "editor.foreground": "#707070",
     "editorCursor.foreground": "#ff9940",
     "editorLineNumber.foreground": "#8d889288",
     "editorLineNumber.activeForeground": "#c9c4ce",
