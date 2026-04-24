@@ -240,7 +240,14 @@
     "terminal.ansiBrightBlue": "#8bbcff",
     "terminal.ansiBrightMagenta": "#c7b2ff",
     "terminal.ansiBrightCyan": "#95e3ef",
-    "terminal.ansiBrightWhite": "#fffefb"
+    "terminal.ansiBrightWhite": "#fffefb",
+    "notebook.editorBackground": "#2f2b31",
+    "notebook.cellEditorBackground": "#2f2b31",
+    "notebook.focusedCellBackground": "#3a353d",
+    "notebook.selectedCellBackground": "#3a353d",
+    "notebook.cellBorderColor": "#524c58",
+    "notebook.focusedCellBorder": "#ff9940",
+    "notebook.inactiveFocusedCellBorder": "#524c58"
   },
   "tokenColors": [
     {

@@ -2,6 +2,11 @@
 
 All notable changes to the tomixrm Theme extension will be documented in this file.
 
+## [0.1.4] - 2026-04-25
+
+### Added
+- Jupyter Notebook support: dark background for code cells, focused/selected cell backgrounds, and cell border colors
+
 ## [0.1.3] - 2026-04-19
 
 ### Fixed
