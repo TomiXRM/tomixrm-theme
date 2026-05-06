@@ -2,7 +2,7 @@
   "name": "tomixrm-color-theme",
   "displayName": "tomixrm Color Theme",
   "description": "A dark color theme inspired by Monokai, featuring a warm dark UI with carefully balanced syntax colors.",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "publisher": "tomixrm",
   "author": {
     "name": "tomixrm"

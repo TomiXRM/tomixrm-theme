@@ -2,6 +2,14 @@
 
 All notable changes to the tomixrm Theme extension will be documented in this file.
 
+## [0.1.5] - 2026-05-06
+
+### Changed
+- Brighten `editor.foreground` from `#707070` to `#c8c8c8` for better readability
+
+### Added
+- Chat UI colors: request background/border, slash command, avatar, edited file, checkpoint separator, and thinking shimmer
+
 ## [0.1.4] - 2026-04-25
 
 ### Added

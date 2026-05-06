@@ -107,7 +107,7 @@
     "panelTitleBadge.background": "#ff9940",
     "panelTitleBadge.foreground": "#fffaf2",
     "editor.background": "#2f2b31",
-    "editor.foreground": "#707070",
+    "editor.foreground": "#c8c8c8",
     "editorStickyScroll.background": "#2f2b31",
     "editorStickyScrollHover.background": "#403b44",
     "editorStickyScroll.border": "#524c58",
@@ -220,6 +220,15 @@
     "diffEditor.removedTextBackground": "#b6074720",
     "diffEditor.insertedLineBackground": "#04dfc114",
     "diffEditor.removedLineBackground": "#b6074712",
+    "chat.requestBorder": "#524c58",
+    "chat.requestBackground": "#3a353d",
+    "chat.slashCommandBackground": "#ff994026",
+    "chat.slashCommandForeground": "#ff9940",
+    "chat.avatarBackground": "#403b44",
+    "chat.avatarForeground": "#f7f4ef",
+    "chat.editedFileForeground": "#e8c15d",
+    "chat.checkpointSeparator": "#524c58",
+    "chat.thinkingShimmer": "#f7f4ef66",
     "terminal.background": "#2f2b31",
     "terminal.foreground": "#fffdf8",
     "terminal.selectionBackground": "#f7f4ef26",
@@ -252,7 +261,6 @@
   "tokenColors": [
     {
       "settings": {
-        "background": "#2e2b30",
         "foreground": "#faf8f5"
       }
     },
